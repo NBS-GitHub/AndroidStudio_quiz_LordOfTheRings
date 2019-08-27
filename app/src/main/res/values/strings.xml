@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That\'s correct.</string>
+    <string name="wrong_answer">That\'s incorrect.</string>
+    <string name="question0">The Aragorn\'s sword was called Ethereum.</string>
+    <string name="next_text">next</string>
+    <string name="previous_text">previous</string>
+    <string name="title">The Lord of the Rings Quiz</string>
+
+</resources>
